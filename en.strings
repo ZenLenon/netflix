@@ -1,5 +1,5 @@
 "Key" = "Value";
-"New_feature" = "This feature is awesome, because we sync from Github and it is a new feature that requires transaltion";
+"New_feature" = "This feature is being modified,{Name}!";
 "Website_key_strings_sample_1" = "We have always dreamed of";
 "Website_key_strings_sample_2" = "doing great work that inspires";
 "Website_key_strings_sample_3" = "millions of people every day";
@@ -132,4 +132,4 @@ A Hotspot can be added via the Insert menu, or you can press         to begin dr
 When a Hotspot is selected, its target and animation type can be defined under “Prototyping” in the Inspector.\
 \
 Click the icon in the Hotspot’s “Prototyping” title to go to its target. See you back on Page 1 👋.";
-"eb133359-128e-4644-be76-66f2a28a74f3-Symbols.H" = "Hello there!";
+"eb133359-128e-4644-be76-66f2a28a74f3-Symbols.H" = "Hello there sunshine {Name}!";
