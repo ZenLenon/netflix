@@ -117,4 +117,5 @@
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.Hotspot_Layers" = "";
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.3" = "";
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.The_above_Symbol_con" = "";
-"eb133359-128e-4644-be76-66f2a28a74f3-Symbols.H" = "Привет!";
+"eb133359-128e-4644-be76-66f2a28a74f3-Symbols.H" = "Здравствуйте, солнышко, {Name} !";
+"New_feature" = "Эта функция изменяется, {Name} !";
