@@ -80,7 +80,11 @@
 "Detail_View.My_new_favorite_movi" = "";
 "Detail_View.Information" = "";
 "Detail_View.Studio_Genre_Release" = "";
-"Detail_View.Vixbona_Studios_Scie" = "";
+"Detail_View.Vixbona_Studios_Scie" = "Vixbona Studios\
+Science Fiction\
+2018\
+1:34:29\
+Widescreen, 4K HDR support";
 "Detail_View.Watch_Now" = "";
 "Detail_View.Cast" = "";
 "Detail_View.When_NASA_discovers" = "当NASA在我们的太阳系中发现一个重复的地球时，一位雄心勃勃的年轻科学家和一个有才华的作曲家必须团结起来，拯救一个世界，而不是两个世界。";
@@ -90,18 +94,18 @@
 "Detail_View.Trailer" = "";
 "Detail_View.Navigation_Bar" = "";
 "Detail_View.2:26" = "";
-"Actor_View.Thumbnail" = "";
-"Actor_View.Known_For" = "";
-"Actor_View.Thumbnail_83E480CC-C68C-495E-BFB8-841053883AF0/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/B2609437-73CF-42E9-BA9E-EB21EDD77AE3" = "";
-"Actor_View.Thumbnail_83E480CC-C68C-495E-BFB8-841053883AF0/0E06A350-2452-45E1-8B4A-8044C917A472/BBACD84E-697B-4D8B-A47F-81117A19CC88" = "2个季节";
-"Actor_View.Thumbnail_83E480CC-C68C-495E-BFB8-841053883AF0/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/9EC91669-FC70-4277-AB43-1B5D751AA7B3" = "";
-"Actor_View.Thumbnail_238A50D8-026C-4611-951C-C2C3CD8E8ACD/0E06A350-2452-45E1-8B4A-8044C917A472/06C8C7B1-BBC5-42ED-85EA-065A6EE96D71" = "";
-"Actor_View.Thumbnail_238A50D8-026C-4611-951C-C2C3CD8E8ACD/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/6CD8E431-8354-4280-8F84-698FBBFD314E" = "";
-"Actor_View.Thumbnail_238A50D8-026C-4611-951C-C2C3CD8E8ACD/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/9EC91669-FC70-4277-AB43-1B5D751AA7B3" = "红河";
-"Actor_View.Bio" = "生化";
-"Actor_View.Lynne_Gaiser_Walter" = "Lynne Gaiser Walter于1982年8月7日出生于伊利诺伊州芝加哥。她于2003年毕业于乔治敦大学，获得经济学学士学位。大学毕业后，沃尔特（Walter）被聘为高盛（Goldman Sachs）的工作，她拒绝了该职位，以追求自己的演员生涯。";
-"Actor_View.Navigation_Bar" = "琳恩·沃尔特";
-"Actor_View.Navigation_Bar_9F3EBF74-6058-487D-BAF1-B7A2D4F540C2/9567FE85-6D4B-425E-B9A4-0333A676AEB7/6866647C-E89B-4319-8876-2206CCE0F8A1" = "总览";
+"Actor_View.Thumbnail" = "Science Fiction";
+"Actor_View.Known_For" = "Known For";
+"Actor_View.Thumbnail_83E480CC-C68C-495E-BFB8-841053883AF0/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/B2609437-73CF-42E9-BA9E-EB21EDD77AE3" = "Original Film";
+"Actor_View.Thumbnail_83E480CC-C68C-495E-BFB8-841053883AF0/0E06A350-2452-45E1-8B4A-8044C917A472/BBACD84E-697B-4D8B-A47F-81117A19CC88" = "2 Seasons";
+"Actor_View.Thumbnail_83E480CC-C68C-495E-BFB8-841053883AF0/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/9EC91669-FC70-4277-AB43-1B5D751AA7B3" = "The Day We Left Earth";
+"Actor_View.Thumbnail_238A50D8-026C-4611-951C-C2C3CD8E8ACD/0E06A350-2452-45E1-8B4A-8044C917A472/06C8C7B1-BBC5-42ED-85EA-065A6EE96D71" = "Thriller";
+"Actor_View.Thumbnail_238A50D8-026C-4611-951C-C2C3CD8E8ACD/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/6CD8E431-8354-4280-8F84-698FBBFD314E" = "棕榈街";
+"Actor_View.Thumbnail_238A50D8-026C-4611-951C-C2C3CD8E8ACD/7BAB0DC2-0FA0-4C93-B2F0-2F4F24145C80/9EC91669-FC70-4277-AB43-1B5D751AA7B3" = "The Red River";
+"Actor_View.Bio" = "Bio";
+"Actor_View.Lynne_Gaiser_Walter" = "Lynne Gaiser Walter was born August 7, 1982 in Chicago, Illinois. She graduated from Georgetown University in 2003, with a bachelor’s degree in economics. After completing College, Walter was offered a job with Goldman Sachs, which she turned down in order to pursue her career as an actor.";
+"Actor_View.Navigation_Bar" = "Lynne Walter";
+"Actor_View.Navigation_Bar_9F3EBF74-6058-487D-BAF1-B7A2D4F540C2/9567FE85-6D4B-425E-B9A4-0333A676AEB7/6866647C-E89B-4319-8876-2206CCE0F8A1" = "Overview";
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.↳_Placeholder_Label" = "";
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.Large_Title" = "";
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.Label" = "";
@@ -118,4 +122,4 @@
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.The_above_Symbol_con" = "";
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.H" = "";
 "New_feature" = "";
-"Actor_View.Navigation_Bar_9F3EBF74-6058-487D-BAF1-B7A2D4F540C2/9567FE85-6D4B-425E-B9A4-0333A676AEB7/6866647C-E89B-4319-8876-2206CCE0F8A1_copy" = "总览";
+"Actor_View.Navigation_Bar_9F3EBF74-6058-487D-BAF1-B7A2D4F540C2/9567FE85-6D4B-425E-B9A4-0333A676AEB7/6866647C-E89B-4319-8876-2206CCE0F8A1_copy" = "Overview";
