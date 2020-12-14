@@ -132,4 +132,4 @@ When a Hotspot is selected, its target and animation type can be defined under �
 \
 Click the icon in the Hotspot’s “Prototyping” title to go to its target. See you back on Page 1 👋.";
 "eb133359-128e-4644-be76-66f2a28a74f3-Symbols.H" = "Hello there sunshine {Name}!";
-"New_feature" = "Hello, Brendan!";
+"New_feature" = "Hello, {Name}!";
