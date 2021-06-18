@@ -1,13 +1,20 @@
-  
-"Key" = "Value";
-"Website_key_strings_sample_0" = "As you read the following verses from the Bible, notice the many blessings of reading the Word of God and praying:";
-"Website_key_strings_sample_1" = "We have always dreamed of modifying these values via Github";
-"Website_key_strings_sample_2" = "doing great work that inspires";
-"Website_key_strings_sample_3" = "millions of people every day";
-"Website_key_strings_sample_android-5" = "%s";
-"Website_key_strings_sample_android_6" = "%@";
-"Website_key_strings_sample_6" = "The market-leading train operating company that links Sweden together.";
-"Website_key_strings_sample_7" = "Swish";
-"Website_key_strings_sample_8" = "The de facto standard for mobile payments in Sweden.";
-"Website_key_strings_sample_9" = "Vattenfall – OneTonneFuture";
-"Website_key_strings_sample_10" = "Your guide to a sustainable future.";
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Key_1">%@</string>
+</resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Key_2">%s</string>
+</resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Key_3">Hi {name},</string>
+</resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Key_4">I love Lokalise</string>
+</resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Key_5">It's nice and warm</string>
+</resources>
