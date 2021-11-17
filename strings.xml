@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="frame_1.valet">Valet</string>
+  <string name="frame_1.30mih">30mi/h</string>
+  <string name="frame_1.friends">Friends</string>
+  <string name="guest_driver_alerts__toyota.get_alerts_sent_to_the_primary_account_owner_when_preset_limits_of_speed__curfew_or_miles_driven_are_exceeded.">Get alerts sent to the primary account owner when preset limits of speed, curfew or miles driven are exceeded.</string>
+  <string name="frame_1.family">Family</string>
+  <string name="guest_driver_alerts__toyota_profile__speed_limit.button__stickied__normal.button__primary__text_only__normal.save_changes">Save Changes</string>
+  <string name="frame_1.enabled">Enabled</string>
+  <string name="guest_driver_alerts__toyota.get_alerts_sent_to_the_primary_account_owner_related_to_exceeding_preset_limits_of_speed__curfew_or_miles_driven.">Get alerts sent to the primary account owner related to exceeding preset limits of speed, curfew or miles driven.</string>
+  <string name="guest_driver_alerts__toyota.nav_bar__large__no_action.advanced_settings">Advanced Settings</string>
+  <string name="frame_1.custom_alert_long_name...">Custom alert long name...</string>
+  <string name="___text_container.input_text.63">Custom alert long name</string>
+  <string name="frame_1.set_max_speed_limit">Set max speed limit</string>
+  <string name="frame_5.title"></string>
+  <string name="right_action.preferred"></string>
+  <string name="frame_5.description">We could not establish communication with your vehicle.</string>
+  <string name="dashboard___remote___minimumapp_chrome__dashboardgroup_3distance_to_empty"></string>
+  <string name="frame_1right_text">Pending</string>
+  <string name="frame_12_368_miles">2,368 miles </string>
+  <string name="frame_3send_to_car">Send to Car</string>
+  <string name="app_store_screens___engtoyota_master___1engdashboard___remote___minimumapp_chrome__dashboardgroup_6e"></string>
+  <string name="frame_18wear_os__table_row__defaultstart_engine"></string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keynav_bar__default__text_actionparent">Parent</string>
+  <string name="headertitle">Collision Assistance</string>
+  <string name="android__status_bartime1230"></string>
+  <string name="frame_1search_destinations">Search Destinations</string>
+  <string name="dashboard___remote___minimumapp_chrome__dashboardgroup_4odometer"></string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33card__cta__nonetitle">Hybrid Pulse</string>
+  <string name="app_store_screens___engtoyota_master___4bengdisclaimerremote_connect_subscription_required._only_available_on_specific_vehicles."><b>Remote Connect</b> subscription required. 
+Only available on select vehicles.</string>
+  <string name="frame_2digital_key_connected">Digital Key connected</string>
+  <string name="frame_442driver_side">Driver Side</string>
+  <string name="dk___dashboard___separate_remote_card___scrolledgroup_34harsh_cornering">Harsh
+Cornering</string>
+  <string name="destinations__search__poiapp_chrome__nestednav_bar__default__no_actionrestaurants">Restaurants</string>
+  <string name="frame_1starbucks">Starbucks</string>
+  <string name="frame_4save">Save</string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keygroup_430group_371is350">NX 300
+</string>
+  <string name="frame_1title">Caption</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_48miles">miles</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_52mins">mins</string>
+  <string name="dk___dashboard___separate_remote_card___scrollednav_bar__dashboardgarageprius_prime"></string>
+  <string name="frame_1right_text43">Set Up</string>
+  <string name="destinations__search__poi123_anywhere_st._dallas__texas_75035">123 Anywhere St.
+Dallas, Texas 75035</string>
+  <string name="contenttext___below">We detected a possible collision on your Toyota Camry TRD. To document the collision for your records, please click on ‘Document Collision’</string>
+  <string name="frame_1saved_destinations">Work</string>
+  <string name="app_store_screens___englexus_master___5enggroup_29group_6card__cta__nonetitle">LAST PARKED LOCATION</string>
+  <string name="button__card__text_only__normalcall_lexus_roadside">Call LEXUS Roadside</string>
+  <string name="frame_1low">Low</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_5216">16</string>
+  <string name="app_store_screens___engtoyota_master___6engdisclaimerremote_connect_subscription_required._only_available_on_specific_vehicles."><b>Drive Connect</b> subscription required. 
+Only available on Drive Connect capable vehicles.</string>
+  <string name="time_styletime">9:41</string>
+  <string name="apple_watch__testios__table_row__defaultstop_engine"></string>
+  <string name="dashboard___remote___minimumapp_chrome__dashboardgroup_3205_mi"></string>
+  <string name="frame_1window">Window</string>
+  <string name="app_store_screens___engtoyota_master___5engicon__headlineforget_where_youve_parked_not_anymore">Forget where you’ve
+parked? Not anymore</string>
+  <string name="app_store_screens___engtoyota_master___7engicon__headlineuse_voice_control__live_agents_and_cloud_navigation_to_make_sure_you_never_get_lost_again.">Use voice control, live agents
+and cloud navigation to make 
+sure you never get lost again.</string>
+  <string name="dk___dashboard___separate_remote_card___scrolledgroup_34group_91">1</string>
+  <string name="app_store_screens___engtoyota_master___1engdashboard___remote___minimumrc_card_mediumrc_headertitle"></string>
+  <string name="app_store_screens___engtoyota_master___6engdestinationsapp_chrome__nested__searchnav_bar__search__text_actiontext"> </string>
+  <string name="apple_watch__testios__table_row__defaultlock_doors"></string>
+  <string name="frame_1on">On</string>
+  <string name="apple_watch__testios__watch__status_bar955"></string>
+  <string name="frame_498group_15learn_more">Learn More</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledtab_bar__vehicle__reducedvehicle___selectedvehicle"></string>
+  <string name="frame_1open">Open</string>
+  <string name="frame_1profile_name">{Profile Name}</string>
+  <string name="frame_14list__large__with_imageavatar__medium__no_photofl">MJ</string>
+  <string name="frame_1123_anywhere_ave._dallas__texas_75080">123 Anywhere St., Dallas, TX 75080</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_4947">47</string>
+  <string name="apple_watch__testjonathans_corolla_xe"></string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledtab_bar__vehicle__reducedflexflex"></string>
+  <string name="app_store_screens___engtoyota_master___8enggroup_34connect_with_toyota_roadside_assistance_to_get_the_answers_to_all_of_your_questions.">Connect with Toyota Roadside Assistance to get the answers to all of your questions.</string>
+  <string name="apple_watch__testjonathans_is_350">Jonathan’s
+IS 350</string>
+  <string name="dk___dashboard___separate_remote_card___scrolledtab_baraccountaccount"></string>
+  <string name="frame_1trip_a">Trip A</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33group_48current_performance">Current Performance</string>
+  <string name="frame_427lock"></string>
+  <string name="frame_1right_text75">Right text</string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keynav_bar__default__text_actionpage_title">Manage Digital Key</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledmy_destinationsdestinationsdestinationscard_basecard__cta__texttitle">MY DESTINATIONS</string>
+  <string name="contenttext___above">YOU CAN HIDE THIS IF YOU DON’T NEED IT Toggle ‘Pagination’</string>
+  <string name="frame_501group_445list__small__text_onlylabel_text">Label text</string>
+  <string name="frame_469button__card__text_and_disclosure__normalbutton_text">Guest Driver SETTINGS</string>
+  <string name="frame_1123_anywhere_ave._dallas__texas_7508076">Dallas, Texas 75080</string>
+  <string name="remote_connectgroup_436group_429unlock"></string>
+  <string name="frame_501group_442trip_details">Trip Details</string>
+  <string name="app_store_screens___englexus_master___8engicon__headlinehelp_is_here">Help is here</string>
+  <string name="app_store_screens___engtoyota_master___5enggroup_34group_6last_updated_january_17__2020_at_406_pm">Last updated: January 17, 2020 at 4:06 PM</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33group_48sep_2__oct_2__2021">Sep 2 – Oct 2, 2021</string>
+  <string name="destinations__search__poiapp_chrome__nestednav_bar__default__no_actiontext"></string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledmy_destinationslast_parked_locationupdated_12242020_1225_pm">Updated: 12/24/2020 12:25 PM</string>
+  <string name="frame_469button__card__text_and_disclosure__normalbutton_text30">Advanced Controls</string>
+  <string name="dk___dashboard___separate_remote_card___scrolledgroup_34card__cta__texttitle">DRIVE PULSE</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_5173.3">73.3</string>
+  <string name="frame_501group_444passenger_side">Passenger Side</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledparking_card_symbolcard__cta__texttitle">          Park with Parkopedia</string>
+  <string name="dk___dashboard___separate_remote_card___scrolledapp_chrome__dashboardgroup_6f"></string>
+  <string name="frame_469button__card__text_and_disclosure__normalguest_driver_access"></string>
+  <string name="frame_444trunk_lock">Trunk Lock</string>
+  <string name="frame_442trunk_unlock">Trunk Unlock</string>
+  <string name="app_store_screens___englexus_master___5engicon__headlinewell_guide_you_back_to_your_vehicle">We’ll guide you back to your vehicle</string>
+  <string name="vehicle_statuslast_updated_january_17__2019_at_0406">Last updated: January 17, 2019 at 04:06</string>
+  <string name="app_store_screens___englexus_master___3engicon__headlinecontrol_your_lexus_from_the_palm_of_your_hand">Control your  lexus from the palm of your hand</string>
+  <string name="app_store_screens___engtoyota_master___3engicon__headlinecontrol_your_vehicle_from_the_palm_of_your_hand">Control your vehicle 
+from the palm of your hand</string>
+  <string name="dk___dashboard___separate_remote_card___scrolledapp_chrome__dashboardgroup_43_888_mi"></string>
+  <string name="frame_1open__unlocked">Open, Unlocked</string>
+  <string name="info_taghow_to_use_digital_key">How to use Digital Key</string>
+  <string name="app_store_screens___engtoyota_master___1engdashboard___remote___minimumview_statusview_status"></string>
+  <string name="destinations__search__poi1.2_mi__5_min">1.2 mi ∙ 5 min</string>
+  <string name="app_store_screens___engtoyota_master___5enggroup_34group_6card__cta__nonetitle">Last Parked Location</string>
+  <string name="app_store_screens___englexus_master___4engicon__headlineshare_your_vehicle_with_others_with_digital_key">Share your vehicle with others with Digital Key</string>
+  <string name="frame_1unlocked">Unlocked </string>
+  <string name="frame_1neil_armstrong">Neil Armstrong</string>
+  <string name="frame_469button__card__text_and_disclosure__normalbutton_text57">Timer Settings</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledcard__cta__text__disclosurebutton__card__text_and_disclosure__normalbutton_text">MANAGE KEY &amp; SHARING</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledcard__cta__text__disclosuremask_groupfpo">FPO</string>
+  <string name="app_store_screens___englexus_master___7engicon__headlineenhance_your_driving_experience">Enhance your
+driving experience</string>
+  <string name="dk___dashboard___separate_remote_card___scrolledgroup_34group_80">0</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_489.0">9.0</string>
+  <string name="frame_14.8_miles">4.8 miles</string>
+  <string name="frame_1saved_destinations95">Home</string>
+  <string name="app_store_screens___engtoyota_master___1engheadlinemost_out"></string>
+  <string name="dashgroup_34harsh_braking">Harsh
+Braking</string>
+  <string name="frame_1off">Invited</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledcard__cta__text__disclosureuse_your_mobile_device_as_a_key_to_start_the_engine_and_lockunlock_your_vehicle._you_can_share_a_digital_key_with_others_and_manage_their_access.">Use your mobile device as a key to start the engine and lock/unlock your vehicle. You can share a Digital Key with others and manage their access.</string>
+  <string name="frame_1door">Door</string>
+  <string name="frame_1saved_destinations51">Sent to Car</string>
+  <string name="titletoyota"></string>
+  <string name="frame_1front_tire">Front Tire</string>
+  <string name="frame_1trunk">Trunk</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledmy_destinationsdestinationsdestinationscard_basecard__cta__textbutton__card__text_only__normalview_my_destinations">View my destinations</string>
+  <string name="app_store_screens___englexus_master___7engvoice_controlhey_lexus__find_the_nearest_rest_stop.">Hey Lexus, find the nearest rest stop.”</string>
+  <string name="card__cta__texttitle">Roadside Assistance</string>
+  <string name="frame_428hazard_lights"></string>
+  <string name="app_store_screens___englexus_master___6engdisclaimerremote_connect_subscription_required._only_available_on_specific_vehicles."><b>Drive Connect</b> subscription required.
+available on Drive Connect capable vehicles.</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledmy_destinationsdestinationsfavoriteshomefavorites">Favorites</string>
+  <string name="frame_440hazard_lights">Hazard Lights</string>
+  <string name="destinationsapp_chrome__nested__searchnav_bar__default__no_actionpage_title">Page Title</string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keyshared_keys_3_of_7">Shared Keys (3 of 7)</string>
+  <string name="bottom_buttonsbutton__card__text_and_disclosure__normalguest_driver_access">Guest Driver Access</string>
+  <string name="frame_1michael_jordan">Michael Jordan</string>
+  <string name="frame_441horn">Horn</string>
+  <string name="frame_442title">Recents</string>
+  <string name="app_store_screens___englexus_master___7engvoice_control">“</string>
+  <string name="frame_502left_the_car_unlocked">Left the car unlocked?</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledcard__cta__text__disclosuretitle">DIGITAL KEY</string>
+  <string name="app_store_screens___engtoyota_master___8engdisclaimerremote_connect_subscription_required._only_available_on_specific_vehicles."><b>Safety Connect</b> subscription required.
+Some features may not be available.</string>
+  <string name="app_store_screens___engtoyota_master___8enggroup_34card__cta__textbutton__card__text_only__normalcall_toyota_roadside">Call Toyota Roadside</string>
+  <string name="frame_15list__large__with_imageavatar__medium__no_photofl">NA</string>
+  <string name="app_store_screens___englexus_master___2engdisclaimerremote_connect_subscription_required._only_available_on_specific_vehicles."><b>Remote Connect</b> subscription required. 
+Only available on SELECT vehicles.</string>
+  <string name="app_store_screens___englexus_master___1engheadlinemore_out">more out</string>
+  <string name="nav_bar__default__no_actiondestination_details">Destination Details</string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keygroup_15geo_fence_location">My Key</string>
+  <string name="frame_1starbucks2">1231 Greenway Drive</string>
+  <string name="app_store_screens___engtoyota_master___4bengdk___manage_keybutton__secondary__text_only__normalbutton_text">Remove My Key</string>
+  <string name="app_store_screens___englexus_master___2engicon__headlinestart_the_engine_and_more_via_your_smartwatch">Start the engine and more via your smartwatch</string>
+  <string name="app_store_screens___engtoyota_master___4bengdk___manage_keygroup_15offersgeo_fence_location">Sharing</string>
+  <string name="frame_35button___cardbutton__card__text_only__normalbutton_text">Document Collision</string>
+  <string name="app_store_screens___engtoyota_master___2engicon__headlinewhy_use_a_key_when_your_watch_will_do">Why use a key when 
+your watch will do!</string>
+  <string name="frame_26lights">Lights</string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keygroup_430button__secondary__text_only__normalbutton_text">HOW TO USE DIGITAL KEY</string>
+  <string name="app_store_screens___engtoyota_master___1engheadlinevehicle"></string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keynav_bar__default__text_actionaction">Chat</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledmy_destinationslast_parked_locationlast_parked_location">Last parked location</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_49ev">EV%</string>
+  <string name="frame_469button__card__text_and_disclosure__normalbutton_text5">Remote Climate</string>
+  <string name="headertitle97">COLLISION ASSISTANCE</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33button__card__text_only__normalbutton_text">View More</string>
+  <string name="app_store_screens___engtoyota_master___8eng247_agents_are_ready_to_help">24/7 agents are ready to help</string>
+  <string name="frame_501group_443rear">Rear</string>
+  <string name="card__collision__collision_historycard__cta__textbutton__card__text_only__normalbutton_text">View Collision History</string>
+  <string name="frame_15list__large__with_imageavatar__medium__no_photofl29">MM</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledremote_services_cardcard__cta__text__disclosuretitle">REMOTE SERVICES</string>
+  <string name="app_store_screens___engtoyota_master___1engheadlineget_the"></string>
+  <string name="dk___dashboard___separate_remote_card___scrolledgroup_3488">88</string>
+  <string name="app_store_screens___engtoyota_master___4bengdk___manage_key300h_f_sport_awd_black_line_special_edition_vin_4216ffgh230001331">300h F Sport AWD Black Line Special Edition
+VIN: 4216FFGH230001331</string>
+  <string name="frame_14list__large__with_imageavatar__medium__no_photofl97">CW</string>
+  <string name="app_store_screens___engtoyota_master___4bengdk___manage_keybutton__primary__text_only__normalremove_my_key">How To Use Digital Key</string>
+  <string name="app_store_screens___englexus_master___7engicon__headlineuse_voice_control__live_agents_and_cloud_navigation_to_make_sure_you_never_get_lost_again.">Use voice control, live agents and cloud navigation to make sure you never get lost again.</string>
+  <string name="frame_1trip_b">Trip B</string>
+  <string name="dashgroup_34card__cta__texttitle">Drive Pulse</string>
+  <string name="app_store_screens___englexus_master___6engicon__headlinesend_routes_to_your_vehicle">Send routes to your vehicle</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33driver_score91">91</string>
+  <string name="app_store_screens___englexus_master___1engheadlineget">Get</string>
+  <string name="app_store_screens___englexus_master___1engheadlineof_your"></string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keybutton__secondary__text_only__normalbutton_text">REMOVE MY KEY</string>
+  <string name="app_store_screens___engtoyota_master___4bengdk___manage_keydigital_key">Digital Key</string>
+  <string name="card__collision__collision_historybody1">View your recorded incidents of collision for your 2021 Camry.</string>
+  <string name="dashgroup_34fast_acceleration">Fast
+Acceleration</string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keygroup_430nx_300_awd_vin_4216ffgh230001331">NX 300 AWD
+VIN: 4216FFGH230001331</string>
+  <string name="app_store_screens___engtoyota_master___6engdestinationsapp_chrome__nested__searchnav_bar__search__text_actiondestination_search">My Destinations</string>
+  <string name="hybrid_drive___dashhybrid_pulsegroup_33stats_summary_groupgroup_51avg._mpg">Avg. mpg</string>
+  <string name="app_store_screens___englexus_master___4englexus___dk___manage_keybutton__primary__text_only__normalbutton_text">INVITE NEW USER</string>
+  <string name="titlelexus">Lexus</string>
+  <string name="frame_443buzzer">Buzzer</string>
+  <string name="app_store_screens___engtoyota_master___7engvoice_controlhey_toyota__find_the_nearest_rest_stop.">Hey Toyota, find the nearest rest stop.”</string>
+  <string name="frame_2call">Call</string>
+  <string name="app_store_screens___engtoyota_master___4bengdk___manage_keygroup_3712020_camry_xse">2020 Camry XSE</string>
+  <string name="app_store_screens___engtoyota_master___4bengdk___manage_keybutton__primary__text_only__normalinvite_new_user">Invite New User</string>
+  <string name="frame_1title_text">Christopher Wallace</string>
+  <string name="card__collision__collision_historycard__cta__texttitle">Collision History</string>
+  <string name="frame_1title_text63">Marlowe May</string>
+  <string name="app_store_screens___engtoyota_master___2engicon__headlinestart_your_engine_from_wherever_you_are">Start your engine
+from wherever 
+you are </string>
+  <string name="contenttext___below77">We detected a possible collision on your Lexus NX. To document the collision for your records, please click on ‘Document Collision’</string>
+  <string name="frame_8button___cardbutton__card__text_only__normalbutton_text">DOCUMENT COLLISION</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledparking_card_symbolcard__cta__textbutton__card__text_only__normalfind_parking">Find Parking</string>
+  <string name="frame_502double_check_in_a_few_taps">Double-check in a few taps</string>
+  <string name="vehicle_statussheet__emptysheet__headervehicle_status">Vehicle Status</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolledremote_services_cardcard__cta__text__disclosurebutton__card__text_and_disclosure__normalguest_driver_access">GUEST DRIVER ACCESS</string>
+  <string name="frame_1.2_mi">2 mi</string>
+  <string name="frame_1.off">Off</string>
+  <string name="frame_1.curfew">Curfew</string>
+  <string name="guest_driver_alerts__toyota_profile.settings">Settings</string>
+  <string name="frame_1.speed_limit">Speed Limit</string>
+  <string name="frame_1.30_mih">30 mi/h</string>
+  <string name="frame_1.area_limit">Area Limit</string>
+  <string name="guest_driver_alerts__toyota_profile.nav_bar__large__no_action.guest_driver_alerts">Guest Driver Alerts</string>
+  <string name="frame_1.enable">Enable</string>
+  <string name="frame_1.ignition_on">Ignition On</string>
+  <string name="frame_1.total_miles_limit">Total Miles Limit</string>
+  <string name="guest_driver_alerts__toyota.button__stickied__normal.button__secondary__text_only__normal.create_new_alert">Create New Alert</string>
+  <string name="guest_driver_alerts__toyota_profile.button__primary__text_only__normal.delete_alert">Delete Alert</string>
+  <string name="guest_driver_alerts__toyota_profile.nav_bar__large__no_action.custom_alert_long_name">Custom alert long
+name</string>
+  <string name="frame_538.registration">Registration</string>
+  <string name="frame_501.demo_menu">Demo Menu</string>
+  <string name="frame_520.get_to_know_the_app__features_and_services_available.">Get to know the app, features and services available.  Tap each tile to explore. </string>
+  <string name="frame_501.">|</string>
+  <string name="frame_501.exit_demo">Exit Demo</string>
+  <string name="frame_511.select_scan_qr_code_if_your_vehicle_is_a_2022_toyota_tundra.">Select <b>Scan QR Code</b> if your vehicle is a 2022 Toyota Tundra.</string>
+  <string name="frame_538.run_through_initial_sign_up_and_verification_processes_including_connected_services_and_data_consent.">Run through initial sign up and verification processes including Connected Services and data consent.</string>
+  <string name="frame_521.toyota_app_demo_mode">Toyota app Demo Mode</string>
+  <string name="frame_539.check_out_many_of_your_vehicles_capabilities_and_connected_services_features">Check out many of your vehicle’s capabilities and Connected Services features</string>
+  <string name="frame_541.access_personal_details_and_key_information_related_to_you_and_your_vehicle">Access personal details and key information related to you and your vehicle</string>
+  <string name="frame_540.preview_features_of_your_vehicle__capabilities_service_history_and_more">Preview features of your vehicle, capabilities, service history and more</string>
+  <string name="create_account_pin__confirm.group_482.ios__views__alerts__light__default_1_line_title___responsive.ios__views__alerts__x__1_actions___preferred___light.action_preferred">OK</string>
+  <string name="consents_agreed.button__stickied__normal.button__primary__text_only__normal.activate_trials">Skip</string>
+  <string name="frame_539.dashboard">Dashboard</string>
+  <string name="frame_520.get_to_know_the_app__features_and_services_available">Get to know the app, features and services available.  Tap each tile to explore. </string>
+  <string name="title__description.description">This feature is not supported in Demo Mode.</string>
+  <string name="frame_511.select_scan_vin_or_enter_vin_manually_if_your_vehicle_is_anything_other_than_a_2022_toyota_tundra.">Select <b>Scan VIN </b>or<b> Enter VIN Manually</b> if your vehicle is anything other than a 2022 Toyota Tundra.</string>
+  <string name="frame_469.button__card__text_and_disclosure__normal.remote_climate">Remote Climate</string>
+  <string name="frame_440.hazard_lights">Hazard Lights</string>
+  <string name="apple_watch__test.jonathans_corolla_xe">Jonathan’s
+Corolla XE</string>
+  <string name="screens.toyota_master___5eng.group_34.group_6.card__cta__none.title">Last Parked Location</string>
+  <string name="screens.toyota_master___1eng.dashboard___remote___minimum.rc_card_medium.rc_header.title">Remote Connect</string>
+  <string name="time_style.time">9:41</string>
+  <string name="frame_1.open">Open</string>
+  <string name="content.text___above">YOU CAN HIDE THIS IF YOU DON’T NEED IT Toggle ‘Pagination’</string>
+  <string name="screens.toyota_master___6eng.disclaimer.remote_connect_subscription_required._only_available_on_specific_vehicles."><b>Drive Connect</b> subscription required. 
+Only available on Drive Connect capable vehicles.</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.group_48.sep_2__oct_2__2021">Sep 2 – Oct 2, 2021</string>
+  <string name="frame_14.list__large__with_image.avatar__medium__no_photo.fl">CW</string>
+  <string name="screens.toyota_master___8eng.group_34.card__cta__text.title">Roadside Assistance</string>
+  <string name="screens.toyota_master___8eng.247_agents_are_ready_to_help">24/7 agents are ready to help</string>
+  <string name="frame_1.saved_destinations">Work</string>
+  <string name="frame_1.on">On</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.button__secondary__text_only__normal.button_text">Remove My Key</string>
+  <string name="dashboard___remote___minimum.app_chrome__dashboard.nav_bar__dashboard.garage.prius_prime">My Garage</string>
+  <string name="frame_1.title">Caption</string>
+  <string name="screens.toyota_master___1eng.dashboard___remote___minimum.view_status.view_status">View Status</string>
+  <string name="frame_1.starbucks">1231 Greenway Drive</string>
+  <string name="frame_1.unlocked">Unlocked </string>
+  <string name="destinations__search__poi.app_chrome__nested.nav_bar__default__no_action.text"></string>
+  <string name="frame_429.unlock">Unlock</string>
+  <string name="dashboard___remote___minimum.app_chrome__dashboard.group_4.3_888_mi">3,888 mi</string>
+  <string name="apple_watch__test.ios__table_row__default.start_engine">Start</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_48.9.0">9.0</string>
+  <string name="frame_443.buzzer">Buzzer</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_52.mins">mins</string>
+  <string name="frame_1.michael_jordan">Michael Jordan</string>
+  <string name="screens.toyota_master___2eng.icon__headline.why_use_a_key_when_your_watch_will_do">Why use a key when 
+your watch will do!</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.driver_score.91">91</string>
+  <string name="screens.toyota_master___7eng.icon__headline.enhance_your_driving_experience">Enhance your
+driving experience</string>
+  <string name="title.toyota">Toyota</string>
+  <string name="nav_bar__default__no_action.parent">Parent</string>
+  <string name="screens.toyota_master___6eng.destinations.app_chrome__nested__search.nav_bar__search__text_action.text"> </string>
+  <string name="screens.toyota_master___1eng.dashboard___remote___minimum.app_chrome__dashboard.group_6.f">F</string>
+  <string name="screens.toyota_master___2eng.icon__headline.start_your_engine_from_wherever_you_are">Start your engine
+from wherever 
+you are </string>
+  <string name="frame_469.button__card__text_and_disclosure__normal.guest_driver_access">Guest Driver Settings</string>
+  <string name="screens.toyota_master___1eng.dashboard___remote___minimum.app_chrome__dashboard.group_3.distance_to_empty">Distance to Empty</string>
+  <string name="screens.toyota_master___7eng.voice_control.">“</string>
+  <string name="frame_26.lights">Lights</string>
+  <string name="frame_442.trunk_unlock">Trunk Unlock</string>
+  <string name="frame_1.window">Window</string>
+  <string name="screens.toyota_master___1eng.headline.vehicle">vehicle</string>
+  <string name="frame_501.group_444.list__small__text_only.label_text">Label text</string>
+  <string name="dashboard___remote___minimum.tab_bar.flex.flex">Notifications</string>
+  <string name="android__status_bar.time.1230">10:00</string>
+  <string name="screens.toyota_master___8eng.group_34.connect_with_toyota_roadside_assistance_to_get_the_answers_to_all_of_your_questions.">Connect with Toyota Roadside Assistance to get the answers to all of your questions.</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.group_15.geo_fence_location">My Key</string>
+  <string name="dash.group_34.card__cta__text.title">Drive Pulse</string>
+  <string name="frame_1.saved_destinations.88">Home</string>
+  <string name="frame_428.hazard_lights">Hazard
+Lights</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.button__primary__text_only__normal.invite_new_user">Invite New User</string>
+  <string name="screens.toyota_master___1eng.dashboard___remote___minimum.tab_bar.account.account">Account</string>
+  <string name="frame_501.group_442.trip_details">Trip Details</string>
+  <string name="screens.toyota_master___5eng.group_34.group_6.last_updated_january_17__2020_at_406_pm">Last updated: January 17, 2020 at 4:06 PM</string>
+  <string name="frame_1.low">Low</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.300h_f_sport_awd_black_line_special_edition_vin_4216ffgh230001331">300h F Sport AWD Black Line Special Edition
+VIN: 4216FFGH230001331</string>
+  <string name="dashboard___remote___minimum.tab_bar.vehicle___selected.vehicle">Vehicle</string>
+  <string name="screens.toyota_master___1eng.dashboard___remote___minimum.app_chrome__dashboard.group_3.205_mi">205 mi</string>
+  <string name="screens.toyota_master___2eng.disclaimer.remote_connect_subscription_required._only_available_on_specific_vehicles."><b>Remote Connect</b> subscription required. 
+Only available on select vehicles.</string>
+  <string name="frame_1.open__unlocked">Open, Unlocked</string>
+  <string name="apple_watch__test.ios__watch__status_bar.955">9:55</string>
+  <string name="frame_1.trip_a">Trip A</string>
+  <string name="header.title">Collision Assistance</string>
+  <string name="bottom_buttons.button__card__text_and_disclosure__normal.guest_driver_access">Guest Driver Access</string>
+  <string name="frame_2.call">Call</string>
+  <string name="screens.toyota_master___8eng.icon__headline.help_is_here">Help is here</string>
+  <string name="frame_1.123_anywhere_ave._dallas__texas_75080">123 Anywhere St., Dallas, TX 75080</string>
+  <string name="frame_1.123_anywhere_ave._dallas__texas_75080.38">Dallas, Texas 75080</string>
+  <string name="frame_1.trip_b">Trip B</string>
+  <string name="apple_watch__test.ios__table_row__default.stop_engine">Stop</string>
+  <string name="frame_442.driver_side">Driver Side</string>
+  <string name="frame_18.wear_os__table_row__default.lock_doors">Lock Doors</string>
+  <string name="frame_444.trunk_lock">Trunk Lock</string>
+  <string name="screens.toyota_master___5eng.icon__headline.forget_where_youve_parked_not_anymore">Forget where you’ve
+parked? Not anymore</string>
+  <string name="destinations__search__poi.app_chrome__nested.nav_bar__default__no_action.restaurants">Restaurants</string>
+  <string name="screens.toyota_master___6eng.destinations.app_chrome__nested__search.nav_bar__default__no_action.page_title">Page Title</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.group_15.offers.geo_fence_location">Sharing</string>
+  <string name="dash.group_34.group_7.0">0</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_49.47">47</string>
+  <string name="content.text___below">We detected a possible collision on your Toyota Camry TRD. To document the collision for your records, please click on ‘Document Collision’</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.shared_keys_3_of_7">Shared Keys (3 of 7)</string>
+  <string name="dash.group_34.88">88</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.group_371.2020_camry_xse">2020 Camry XSE</string>
+  <string name="frame_14.list__large__with_image.avatar__medium__no_photo.fl.21">NA</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.digital_key">Digital Key</string>
+  <string name="frame_1.right_text">Right text</string>
+  <string name="frame_1.4.8_miles">4.8 miles</string>
+  <string name="frame_1.right_text.91">Set Up</string>
+  <string name="screens.toyota_master___1eng.dashboard___remote___minimum.app_chrome__dashboard.group_4.odometer">Odometer</string>
+  <string name="frame_441.horn">Horn</string>
+  <string name="screens.toyota_master___7eng.voice_control.hey_toyota__find_the_nearest_rest_stop.">Hey Toyota, find the nearest rest stop.”</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.nav_bar__default__text_action.help">Chat</string>
+  <string name="frame_1.profile_name">{Profile Name}</string>
+  <string name="screens.toyota_master___8eng.group_34.group_15.learn_more">Learn More</string>
+  <string name="destinations__search__poi.starbucks">Starbucks</string>
+  <string name="dashboard___remote___minimum.app_chrome__dashboard.group_6.e">E</string>
+  <string name="frame_1.trunk">Trunk</string>
+  <string name="screens.toyota_master___1eng.headline.get_the">Get the</string>
+  <string name="screens.toyota_master___3eng.icon__headline.control_your_vehicle_from_the_palm_of_your_hand">Control your vehicle 
+from the palm of your hand</string>
+  <string name="screens.toyota_master___6eng.destinations.app_chrome__nested__search.nav_bar__search__text_action.destination_search">My Destinations</string>
+  <string name="screens.toyota_master___6eng.destinations.title">Recents</string>
+  <string name="frame_4.save">Save</string>
+  <string name="dash.group_34.harsh_cornering">Harsh
+Cornering</string>
+  <string name="frame_469.button__card__text_and_disclosure__normal.guest_driver_access.50">Timer Settings</string>
+  <string name="screens.toyota_master___8eng.group_34.card__cta__text.button__card__text_only__normal.call_toyota_roadside">Call Toyota Roadside</string>
+  <string name="frame_501.group_443.rear">Rear</string>
+  <string name="destinations__search__poi.123_anywhere_st._dallas__texas_75035">123 Anywhere St.
+Dallas, Texas 75035</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_49.ev">EV%</string>
+  <string name="frame_3.send_to_car">Send to Car</string>
+  <string name="dash.group_34.harsh_braking">Harsh
+Braking</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.nav_bar__default__text_action.manage_key">Manage Digital Key</string>
+  <string name="frame_427.lock">Lock</string>
+  <string name="frame_1.search_destinations">Search Destinations</string>
+  <string name="frame_14.list__large__with_image.avatar__medium__no_photo.fl.81">MJ</string>
+  <string name="vehicle_status.last_updated_january_17__2019_at_0406">Last updated: January 17, 2019 at 04:06</string>
+  <string name="frame_1.saved_destinations.18">Favorites</string>
+  <string name="frame_502.left_the_car_unlocked">Left the car unlocked?</string>
+  <string name="frame_1.door">Door</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.group_48.current_performance">Current Performance</string>
+  <string name="frame_1.2_368_miles">2,368 miles </string>
+  <string name="frame_501.group_444.passenger_side">Passenger Side</string>
+  <string name="frame_1.off">Invited</string>
+  <string name="info_tag.how_to_use_digital_key">How to use Digital Key</string>
+  <string name="nav_bar__default__no_action.destination_details">Destination Details</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_48.miles">miles</string>
+  <string name="screens.toyota_master___7eng.icon__headline.use_voice_control__live_agents_and_cloud_navigation_to_make_sure_you_never_get_lost_again.">Use voice control, live agents
+and cloud navigation to make 
+sure you never get lost again.</string>
+  <string name="screens.toyota_master___1eng.headline.of_your">of your</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_51.avg._mpg">Avg. mpg</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.card__cta__none.title">Hybrid Pulse</string>
+  <string name="dash.group_34.fast_acceleration">Fast
+Acceleration</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_52.16">16</string>
+  <string name="frame_1.front_tire">Front Tire</string>
+  <string name="frame_1.christopher_wallace">Christopher Wallace</string>
+  <string name="frame_502.double_check_in_a_few_taps">Double-check in a few taps</string>
+  <string name="frame_1.saved_destinations.59">Sent to Car</string>
+  <string name="vehicle_status.sheet__empty.sheet__header.vehicle_status">Vehicle Status</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.stats_summary_group.group_51.73.3">73.3</string>
+  <string name="hybrid_drive___dash.hybrid_pulse.group_33.button__card__text_only__normal.button_text">View More</string>
+  <string name="dash.group_34.group_9.1">1</string>
+  <string name="frame_2.digital_key_connected">Digital Key connected</string>
+  <string name="screens.toyota_master___1eng.headline.most_out">most out</string>
+  <string name="screens.toyota_master___4beng.dk___manage_key.button__primary__text_only__normal.remove_my_key">How To Use Digital Key</string>
+  <string name="frame_469.button__card__text_and_disclosure__normal.remote_climate.81">Advanced Controls</string>
+  <string name="screens.toyota_master___8eng.disclaimer.remote_connect_subscription_required._only_available_on_specific_vehicles."><b>Safety Connect</b> subscription required.
+Some features may not be available.</string>
+  <string name="frame_1.neil_armstrong">Neil Armstrong</string>
+  <string name="destinations__search__poi.1.2_mi__5_min">1.2 mi ∙ 5 min</string>
+  <string name="screens.toyota_master___6eng.icon__headline.send_routes_to_your_vehicle">Send routes to your vehicle</string>
+  <string name="frame_35.button___card.button__card__text_only__normal.button_text">Document Collision</string>
+  <string name="screens.lexus_master___2eng.disclaimer.remote_connect_subscription_required._only_available_on_specific_vehicles."><b>Remote Connect</b> subscription required. 
+Only available on SELECT vehicles.</string>
+  <string name="wear_os__remote__default.group_13.jonathans_is_350">Jonathan’s
+IS 350</string>
+  <string name="button__card__text_only__normal.call_lexus_roadside">Call LEXUS Roadside</string>
+  <string name="card__collision__collision_history.card__cta__text.button__card__text_only__normal.button_text">View Collision History</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.my_destinations.destinations.destinations.card_base.card__cta__text.title">MY DESTINATIONS</string>
+  <string name="screens.lexus_master___3eng.icon__headline.control_your_lexus_from_the_palm_of_your_hand">Control your Lexus from the palm of your hand</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.my_destinations.destinations.destinations.card_base.card__cta__text.button__card__text_only__normal.view_my_destinations">View my destinations</string>
+  <string name="screens.lexus_master___5eng.group_29.group_6.card__cta__none.title">LAST PARKED LOCATION</string>
+  <string name="screens.lexus_master___6eng.disclaimer.remote_connect_subscription_required._only_available_on_specific_vehicles."><b>Drive Connect</b> subscription required.
+available on Drive Connect capable vehicles.</string>
+  <string name="screens.lexus_master___4eng.icon__headline.share_your_vehicle_with_others_with_digital_key">Share your vehicle with others with Digital Key</string>
+  <string name="frame_1.title_text">Marlowe May</string>
+  <string name="title.lexus">Lexus</string>
+  <string name="screens.lexus_master___5eng.icon__headline.well_guide_you_back_to_your_vehicle">We’ll guide you back to your vehicle</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.parking_card_symbol.card__cta__text.title">          Park with Parkopedia</string>
+  <string name="screens.lexus_master___1eng.headline.get">Get</string>
+  <string name="screens.lexus_master___4eng.lexus___dk___manage_key.group_430.group_371.is350">NX 300
+</string>
+  <string name="screens.lexus_master___1eng.headline.more_out">more out</string>
+  <string name="screens.lexus_master___7eng.voice_control.hey_lexus__find_the_nearest_rest_stop.">Hey Lexus, find the nearest rest stop.”</string>
+  <string name="bottom_buttons.button__card__text_and_disclosure__normal.button_text">MANAGE KEY &amp; SHARING</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.card__cta__text__disclosure.mask_group.fpo">FPO</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.card__cta__text__disclosure.use_your_mobile_device_as_a_key_to_start_the_engine_and_lockunlock_your_vehicle._you_can_share_a_digital_key_with_others_and_manage_their_access.">Use your mobile device as a key to start the engine and lock/unlock your vehicle. You can share a Digital Key with others and manage their access.</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.remote_services_card.card__cta__text__disclosure.button__card__text_and_disclosure__normal.guest_driver_access">GUEST DRIVER ACCESS</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.remote_services_card.card__cta__text__disclosure.title">REMOTE SERVICES</string>
+  <string name="card__collision__collision_history.card__cta__text.title">Collision History</string>
+  <string name="frame_8.button___card.button__card__text_only__normal.button_text">DOCUMENT COLLISION</string>
+  <string name="dk___dashboard___separate_remote_card___scrolled.group_34.card__cta__text.title">DRIVE PULSE</string>
+  <string name="screens.lexus_master___4eng.lexus___dk___manage_key.group_430.nx_300_awd_vin_4216ffgh230001331">NX 300 AWD
+VIN: 4216FFGH230001331</string>
+  <string name="screens.lexus_master___4eng.lexus___dk___manage_key.group_430.button__secondary__text_only__normal.button_text">HOW TO USE DIGITAL KEY</string>
+  <string name="screens.lexus_master___4eng.lexus___dk___manage_key.button__primary__text_only__normal.button_text">INVITE NEW USER</string>
+  <string name="card__collision__collision_history.body1">View your recorded incidents of collision for your 2021 Camry.</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.card__cta__text__disclosure.title">DIGITAL KEY</string>
+  <string name="screens.lexus_master___2eng.icon__headline.start_the_engine_and_more_via_your_smartwatch">Start the engine and more via your smartwatch Remote Connect</string>
+  <string name="frame_469.button__card__text_and_disclosure__normal.button_text">Guest Driver SETTINGS</string>
+  <string name="screens.lexus_master___4eng.lexus___dk___manage_key.button__secondary__text_only__normal.button_text">REMOVE MY KEY</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.parking_card_symbol.card__cta__text.button__card__text_only__normal.find_parking">Find Parking</string>
+  <string name="frame_15.list__large__with_image.avatar__medium__no_photo.fl">MM</string>
+  <string name="screens.lexus_master___7eng.icon__headline.use_voice_control__live_agents_and_cloud_navigation_to_make_sure_you_never_get_lost_again.">Use voice control, live agents and cloud navigation to make sure you never get lost again.</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.my_destinations.last_parked_location.updated_12242020_1225_pm">Updated: 12/24/2020 12:25 PM</string>
+  <string name="lexus___dk___dashboard___separate_remote_card___scrolled.my_destinations.last_parked_location.last_parked_location">Last parked location</string>
+  <string name="destinations__search__poi.app_chrome__nested.nav_bar__default__no_action.text.24"></string>
+  <string name="header.title.67">COLLISION ASSISTANCE</string>
+  <string name="content.text___below.79">We detected a possible collision on your Lexus NX. To document the collision for your records, please click on ‘Document Collision’</string>
+  <string name="frame_1.right_text.19">Pending</string>
+  <string name="frame_2828.what_is_the_cost_for_remote_park">What is the cost for Remote Park?</string>
+  <string name="frame_2827.advanced_park_allows_the_driver_to_park_the_vehicle_hands_free_from_inside_the_vehicle._remote_park_is_an_enhancement_to_advanced_park_that_allows_the_user_to_park_the_vehicle_using_a_smartphone_from_">Advanced Park allows the driver to park the vehicle hands-free from inside the vehicle. Remote Park is an enhancement to Advanced Park allowing the user to park the vehicle using a smartphone from outside the vehicle.</string>
+  <string name="frame_2825.advanced_park_is_available_on_2022_lexus_nx_350h_vehicles_equipped_with_the_luxury_and_vision_packages_and_on_nx_450h_equipped_with_the_vision_package.">Advanced Park is available on 2022 Lexus NX 350h vehicles equipped with the Luxury and Vision packages and on NX 450h+ equipped with the Vision package.</string>
+  <string name="frame_2826.how_will_the_remote_park_update_be_rolled_out">How will I know when the Remote Park update is available?</string>
+  <string name="frame_2825.which_models_will_have_advanced_park_and_remote_park">Which models will have Advanced Park and Remote Park?</string>
+  <string name="frame_2828.there_is_no_cost_for_remote_park._it_will_be_available_on_vehicles_equipped_with_the_advanced_park_option_for_users_who_add_a_capable_vehicle_to_their_lexus_app._no_subscription_is_required.">There is no cost for Remote Park. It will be available on vehicles equipped with the Advanced Park option for guests who add a capable vehicle to their Lexus app. No subscription is required.</string>
+  <string name="frame_2826.the_lexus_app_will_receive_an_update_when_the_software_is_ready.">The Lexus App will receive an update when Remote Park is available for a capable vehicle in \"My Garage\".</string>
+  <string name="frame_2827.what_is_the_difference_between_advanced_park_and_remote_park">What is the difference between Advanced Park and Remote Park?</string>
+  <string name="header.title">REMOTE PARK</string>
+  <string name="frame_514.tap_here_to_learn_how_to_connect_your_device_to_the_wi_fi_hotspot..45">Tap <b>here</b> to learn how to connect your device to the Wi-Fi Hotspot.</string>
+  <string name="frame_562.for_a_strong_bluetooth_link_to_head_unit__place_phone_on_wireless_charging_tray_or_in_cup_holder.">For a strong Bluetooth link to the vehicle, place phone on wireless charging tray or in cup holder.</string>
+  <string name="lexus___dk___manage_key___how_to_use_18.nav_bar__modal_stack__no_action.page_title">How to Use Digital Key</string>
+  <string name="frame_562.staying_near_the_vehicle">Maintaining good connectivity</string>
+  <string name="lexus___dk___manage_key___how_to_use_18.button__primary__text_only__normal.button_text">NEXT</string>
+  <string name="time_style.time">9:41</string>
+  <string name="frame_501.demo_menu.44">Demo Menu</string>
+  <string name="frame_501.exit_demo.36">Exit Demo</string>
+</resources>
