@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="uma.key">Valet</string>
-  <string name="uma.key.1">30mi/h</string>
+  <string name="uma.key">Hello [Brand]!</string>
+  <string name="uma.key.1">Book a demo</string>
   <string name="uma.key.2">Friends</string>
   <string name="uma.key.3">Get alerts sent to the primary account owner when preset limits of speed, curfew or miles driven are exceeded.</string>
   <string name="frame_1.family">Family</string>
