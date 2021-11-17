@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="frame_1.valet">Valet</string>
-  <string name="frame_1.30mih">30mi/h</string>
-  <string name="frame_1.friends">Friends</string>
-  <string name="guest_driver_alerts__toyota.get_alerts_sent_to_the_primary_account_owner_when_preset_limits_of_speed__curfew_or_miles_driven_are_exceeded.">Get alerts sent to the primary account owner when preset limits of speed, curfew or miles driven are exceeded.</string>
+  <string name="uma.key">Valet</string>
+  <string name="uma.key.1">30mi/h</string>
+  <string name="uma.key.2">Friends</string>
+  <string name="uma.key.3">Get alerts sent to the primary account owner when preset limits of speed, curfew or miles driven are exceeded.</string>
   <string name="frame_1.family">Family</string>
   <string name="guest_driver_alerts__toyota_profile__speed_limit.button__stickied__normal.button__primary__text_only__normal.save_changes">Save Changes</string>
   <string name="frame_1.enabled">Enabled</string>
