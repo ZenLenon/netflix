@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="Key_1">%@</string>
+  <string name="Key_from_gitlab">%@</string>
 </resources>
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
@@ -16,5 +16,5 @@
 </resources>
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="Key_5">It's nice and warm</string>
+  <string name="Key_from_gitlab_1">Hello {name}</string>
 </resources>
