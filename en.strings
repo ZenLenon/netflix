@@ -13,5 +13,6 @@
 "key_strings_sample_11" = "Lokalise®";
 "key_strings_sample_12" = "Or sign up with your email ";
 "key_strings_sample_13" = "Automate repetitive tasks";
-"key_strings_sample_14" = "Build cutom rules in seconds.";
-"Custom_key" = "Hello, {Name}!";
+"login_function" = "Build cutom rules in seconds.";
+"Change_password" = "Hello, {Name}!";
+"new_functionality" = "delete";
