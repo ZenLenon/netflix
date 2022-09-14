@@ -1,4 +1,4 @@
-"new_zen" = "Hello there";
+"new_zen" = "Hello %name%";
 "New_Key_webhook" = "Hello world;
 "New_key_Francisco" = "Addy";
 "key_strings_sample_0" = "Sign up:";
