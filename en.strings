@@ -1,5 +1,5 @@
-"new_zen_4" = "Steven";
-"new_zen_3" = "New functionality (Snehal)";
+"new_zen_4" = "Phrase is the best CAT tool on the market";
+"new_zen_3" = "This is a new functionality";
 "new_zen_2" = "New password";
 "new_zen_1" = "Hello %name%";
 "new_zen" = "Modification";
@@ -16,7 +16,7 @@
 "key_strings_sample_8" = "Password";
 "key_strings_sample_9" = "Try it free";
 "key_strings_sample_10" = "Try all features for 14 days · No credit card required";
-"key_strings_sample_11" = "Lokalise®";
+"key_strings_sample_11" = "Phrase®";
 "key_strings_sample_12" = "Or sign up with your email ";
 "key_strings_sample_13" = "Automate repetitive tasks";
 "login_function" = "Build cutom rules in seconds.";
